@@ -1,0 +1,27 @@
+.banner {
+    background-image: url("./img/banner.webp");
+    background-size: cover;
+    text-align:center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#fotopersonal {
+    max-width: 20%;
+   
+}
+h1{
+    text-transform: uppercase;
+    letter-spacing: 8px;   
+}
+.Tituloseccion{
+
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+footer{
+    background-color: #005677;
+text-align: center;
+}
+
