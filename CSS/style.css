@@ -1,0 +1,75 @@
+.Comederos {
+    background-color: black;
+    background: cover;
+    color: white;
+    
+
+}
+.Categorias{
+    background-color:#F0A83E;
+    background: cover;
+    color:white;
+
+}
+#listacategorias{
+    list-style: none;
+}
+#comederos{
+    background-image: url("../imgs/bowl-and-pet-daities-on-green-background 1.png");
+    background-size:cover;
+    height: 750px;
+    background-repeat: no-repeat;
+
+
+}
+#descuento{
+     text-align:center ;
+}
+.linkcomedores{
+    background-color: #F0A83E;
+    color:white;
+    
+
+}
+.destacados{
+    background-color: #FBFAF6;
+    background:cover;
+    
+
+
+}
+.precio{
+    color:#F0A83E ;
+
+    
+    
+
+}
+.contactos{
+    background-color:#3C2313 ;
+    background: cover;
+    color:white
+
+    
+}
+
+
+.derechos{
+    background-color: #F0A83E;
+    text-align:center ;
+
+}
+.menu{
+    list-style: none;
+}
+.redes-sociales{
+    background-color: rgb(209, 200, 76);
+    display:flex;
+    justify-content: center;
+    }
+.redes-sociales{
+    font-size: 30px;
+    padding: 10px;
+
+}
+   
